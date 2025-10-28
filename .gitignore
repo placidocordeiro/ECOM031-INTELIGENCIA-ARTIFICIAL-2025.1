@@ -1,0 +1,67 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+venvw/
+.venvw/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables file
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.eggs/
+pip-wheel-metadata/
+wheels/
+share/python-wheels/
+*.egg
+.installed.cfg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Pyre / mypy
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Misc
+*.log
+*.sqlite3
+db.sqlite3
+__pypackages__/
